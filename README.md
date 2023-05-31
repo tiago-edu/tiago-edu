@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Tiago Moreira 😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-moreira-544a49207/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.tiago_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomoreiraeduardo@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomoreiraeduardo@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-edu&layout=compact)](mailto:tiagomoreiraeduardo@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-edu&layout=compact)](https://github.com/tiago-edu/github-readme-stats)
 
 
 ## Tecnologias do meu dia a dia
@@ -12,5 +12,7 @@
 </div><br/>
 
 Apaixonado por tecnologia e programação. Me aperfeiçoando dia após dia para melhorar como desenvolvedor!
+
+
 
 
