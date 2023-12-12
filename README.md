@@ -14,5 +14,5 @@
 
 Apaixonado por tecnologia e programação. Me aperfeiçoando dia após dia para melhorar como desenvolvedor!
 
-
+## Quantas vezes visitaram meu perfil? 🤔
 ![Visitor Count](https://profile-counter.glitch.me/{tiago-edu}/count.svg)
