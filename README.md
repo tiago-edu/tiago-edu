@@ -14,7 +14,5 @@
 
 Apaixonado por tecnologia e programação. Me aperfeiçoando dia após dia para melhorar como desenvolvedor!
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
-
-
+![Visitor Count](https://profile-counter.glitch.me/{tiago-edu}/count.svg)
