@@ -1,4 +1,4 @@
-## Olá! Eu sou o Tiago Moreira 😄
+## Olá ![](https://vbr.wocr.tk/badge?page_id=visitante&text=Visitante&color=55acb7&style=for-the-badge&logo=Github), Eu sou o Tiago Moreira 😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtiagomoreira/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.tiago_/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomoreiraeduardo@gmail.com)
@@ -14,5 +14,3 @@
 
 Apaixonado por tecnologia e programação. Me aperfeiçoando dia após dia para melhorar como desenvolvedor!
 
-## Quantas vezes visitaram meu perfil? 🤔
-![Visitor Count](https://profile-counter.glitch.me/{tiago-edu}/count.svg)
