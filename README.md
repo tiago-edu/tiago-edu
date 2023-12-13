@@ -42,6 +42,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=6000&pause=2000&color=3B96FF&random=false&width=2500&height=200&lines=Apaixonado+por+tecnologia+e+programa%C3%A7%C3%A3o.+Me+aperfei%C3%A7oando+dia+ap%C3%B3s+dia+para+melhorar+como+desenvolvedor!)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/tiagio-edu/tiago-edu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tiago-edu/tiago-edu/blob/output/github-contribution-grid-snake.svg)
 
 
