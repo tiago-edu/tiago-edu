@@ -26,6 +26,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
+        env:
+          OUTPUT: ${{ steps.snake-gif.outputs.snake-gif }}
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
