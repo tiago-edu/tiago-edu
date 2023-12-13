@@ -21,7 +21,6 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
       - run: git status
       - name: Push changes
-        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
